@@ -1,16 +1,25 @@
-# newsly
+# Newsly
 
-A new Flutter project.
 
-## Getting Started
+Daily News app using NewsApi.org.
+News are sorted according to the different categories so that you can jump to your personal choices.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <img width="400" src="Screenshots/Screenshot 2024-06-17 183009.png">
+  <img width="400" src="Screenshots/Screenshot 2024-06-17 183017.png">
+  <img width="400" src="Screenshots/Screenshot 2024-06-17 183032.png">
+  <img width="400" src="Screenshots/Screenshot 2024-06-17 183050.png">
+  
+  
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Installation
+After cloning this repository, migrate to ```Newsly``` folder. There, run the following commands:
+```bash
+  flutter pub get
+  flutter run
+```
+    
